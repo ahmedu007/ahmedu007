@@ -1,4 +1,10 @@
-### Hi there 👋
+![gif from umair.dev](https://github.com/ahmedu007/ahmedu007/blob/main/intro.gif?raw=true)
+
+<p align="center">
+  <a href="https://twitter.com/intent/follow?screen_name=umair170&tw_p=followbutton">Twitter</a>  •
+  <a href="https://www.umair.dev">Website</a>
+</p>
+
 
 <!--
 **ahmedu007/ahmedu007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
