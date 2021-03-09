@@ -1,8 +1,11 @@
-![gif from umair.dev](https://github.com/ahmedu007/ahmedu007/blob/main/intro.gif?raw=true)
+<p align="center">
+  <img src="https://github.com/ahmedu007/ahmedu007/blob/main/intro.gif?raw=true" alt="I am Umair, a Product developer with a passion for great UX / UI based in Leeds."/>
+</p>
 
 <p align="center">
-  <a href="https://twitter.com/intent/follow?screen_name=umair170&tw_p=followbutton">Twitter</a>  •
-  <a href="https://www.umair.dev">Website</a>
+  <a href="https://www.umair.dev">Website</a>  •
+  <a href="https://twitter.com/intent/follow?screen_name=umair170&tw_p=followbutton">Twitter</a>
+  
 </p>
 
 
